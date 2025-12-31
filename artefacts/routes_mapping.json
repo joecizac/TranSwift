@@ -1,0 +1,116 @@
+{
+   "BRPL": {
+      "route": "Belapur – Panvel Local"
+   },
+   "BRVD": {
+      "route": "Belapur – Vadala Local"
+   },
+   "CA": {
+      "route": "Kurla – Ambernath Local"
+   },
+   "CBL": {
+      "route": "Kurla – Badlapur Local"
+   },
+   "CK": {
+      "route": "Kurla – Kalyan Local"
+   },
+   "CTL": {
+      "route": "Kurla – Titwala Local"
+   },
+   "DA": {
+      "route": "Dadar – Ambernath Local"
+   },
+   "DBL": {
+      "route": "Dadar – Badlapur Local"
+   },
+   "DDL": {
+      "route": "Dadar – Dombivili Local"
+   },
+   "DK": {
+      "route": "Dadar – Kalyan Local"
+   },
+   "DT": {
+      "route": "Dombivili – Thane Local"
+   },
+   "DTL": {
+      "route": "Dadar – Titwala Local"
+   },
+   "KAN": {
+      "route": "Kalyan – Asangaon Local"
+   },
+   "KRBR": {
+      "route": "Kharkopar – Belapur Local"
+   },
+   "KRNU": {
+      "route": "Kharkopar – Nerul Local"
+   },
+   "KS": {
+      "route": "Kalyan – Karjat Local"
+   },
+   "PA": {
+      "route": "Parel – Ambernath Local"
+   },
+   "PBL": {
+      "route": "Parel – Badlapur Local"
+   },
+   "PDL": {
+      "route": "Parel – Dombivili Local"
+   },
+   "PK": {
+      "route": "Parel – Kalyan Local"
+   },
+   "PLGN": {
+      "route": "Panvel – Goregaon Local"
+   },
+   "PT": {
+      "route": "Parel – Thane Local"
+   },
+   "PTL": {
+      "route": "Parel – Titwala Local"
+   },
+   "SKP": {
+      "route": "Karjat – Khopoli Local"
+   },
+   "TA": {
+      "route": "Thane – Ambernath Local"
+   },
+   "TBL": {
+      "route": "Thane – Badlapur Local"
+   },
+   "TK": {
+      "route": "Thane – Kalyan Local"
+   },
+   "TN": {
+      "route": "Thane – Kasara Local"
+   },
+   "TNU": {
+      "route": "Thane – Nerul Local"
+   },
+   "TPL": {
+      "route": "Thane – Panvel Local"
+   },
+   "TS": {
+      "route": "Thane – Karjat Local"
+   },
+   "TTL": {
+      "route": "Thane – Titwala Local"
+   },
+   "TV": {
+      "route": "Thane – Vashi Local"
+   },
+   "PLVD": {
+      "route": "Panvel – Vadala Local"
+   },
+   "VPL": {
+      "route": "Vashi – Panvel Local"
+   },
+   "VVD": {
+      "route": "Vashi – Vadala Local"
+   },
+   "WGN": {
+      "route": "WR – Goregaon Local"
+   },
+   "WBO": {
+      "route": "WR – Borivali Local"
+   }
+}

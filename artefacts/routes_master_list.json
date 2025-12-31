@@ -1,0 +1,1321 @@
+[
+  {
+    "route": "churchgate_dahanu",
+    "division": "WR",
+    "line": "western",
+    "source": "Churchgate",
+    "destination": "Dahanu Road",
+    "sequence": [
+      {
+        "sequence": 1,
+        "station": "Churchgate",
+        "distance": 0
+      },
+      {
+        "sequence": 2,
+        "station": "Marine Lines",
+        "distance": 1.3
+      },
+      {
+        "sequence": 3,
+        "station": "Charni Road",
+        "distance": 2.21
+      },
+      {
+        "sequence": 4,
+        "station": "Grant Road",
+        "distance": 3.59
+      },
+      {
+        "sequence": 5,
+        "station": "Mumbai Central",
+        "distance": 4.48
+      },
+      {
+        "sequence": 6,
+        "station": "Dadar",
+        "distance": 10.17
+      },
+      {
+        "sequence": 7,
+        "station": "Bandra",
+        "distance": 14.66
+      },
+      {
+        "sequence": 8,
+        "station": "Andheri",
+        "distance": 21.83
+      },
+      {
+        "sequence": 9,
+        "station": "Borivali",
+        "distance": 33.98
+      },
+      {
+        "sequence": 10,
+        "station": "Dahisar",
+        "distance": 36.34
+      },
+      {
+        "sequence": 11,
+        "station": "Mira Road",
+        "distance": 39.76
+      },
+      {
+        "sequence": 12,
+        "station": "Bhayandar",
+        "distance": 43.11
+      },
+      {
+        "sequence": 13,
+        "station": "Naigaon",
+        "distance": 47.7
+      },
+      {
+        "sequence": 14,
+        "station": "Vasai Road",
+        "distance": 51.78
+      },
+      {
+        "sequence": 15,
+        "station": "Nallasopara",
+        "distance": 55.85
+      },
+      {
+        "sequence": 16,
+        "station": "Virar",
+        "distance": 58
+      },
+      {
+        "sequence": 17,
+        "station": "Vaitarna",
+        "distance": 68.42
+      },
+      {
+        "sequence": 18,
+        "station": "Saphale",
+        "distance": 77
+      },
+      {
+        "sequence": 19,
+        "station": "Kelve Road",
+        "distance": 83
+      },
+      {
+        "sequence": 20,
+        "station": "Palghar",
+        "distance": 91
+      },
+      {
+        "sequence": 21,
+        "station": "Umroli",
+        "distance": 98
+      },
+      {
+        "sequence": 22,
+        "station": "Boisar",
+        "distance": 103
+      },
+      {
+        "sequence": 23,
+        "station": "Vangaon",
+        "distance": 112
+      },
+      {
+        "sequence": 24,
+        "station": "Dahanu Road",
+        "distance": 123.78
+      }
+    ]
+  },
+  {
+    "route": "churchgate_virar",
+    "division": "WR",
+    "line": "western",
+    "source": "Churchgate",
+    "destination": "Virar",
+    "sequence": [
+      {
+        "sequence": 1,
+        "station": "Churchgate",
+        "distance": 0
+      },
+      {
+        "sequence": 2,
+        "station": "Marine Lines",
+        "distance": 1.3
+      },
+      {
+        "sequence": 3,
+        "station": "Charni Road",
+        "distance": 2.21
+      },
+      {
+        "sequence": 4,
+        "station": "Grant Road",
+        "distance": 3.59
+      },
+      {
+        "sequence": 5,
+        "station": "Mumbai Central",
+        "distance": 4.48
+      },
+      {
+        "sequence": 6,
+        "station": "Mahalaxmi",
+        "distance": 5.95
+      },
+      {
+        "sequence": 7,
+        "station": "Lower Parel",
+        "distance": 7.67
+      },
+      {
+        "sequence": 8,
+        "station": "Prabhadevi",
+        "distance": 8.98
+      },
+      {
+        "sequence": 9,
+        "station": "Dadar",
+        "distance": 10.17
+      },
+      {
+        "sequence": 10,
+        "station": "Matunga Road",
+        "distance": 11.75
+      },
+      {
+        "sequence": 11,
+        "station": "Mahim Junction",
+        "distance": 12.93
+      },
+      {
+        "sequence": 12,
+        "station": "Bandra",
+        "distance": 14.66
+      },
+      {
+        "sequence": 13,
+        "station": "Khar Road",
+        "distance": 16.29
+      },
+      {
+        "sequence": 14,
+        "station": "Santa Cruz",
+        "distance": 17.61
+      },
+      {
+        "sequence": 15,
+        "station": "Vile Parle",
+        "distance": 19.67
+      },
+      {
+        "sequence": 16,
+        "station": "Andheri",
+        "distance": 21.83
+      },
+      {
+        "sequence": 17,
+        "station": "Jogeshwari",
+        "distance": 23.52
+      },
+      {
+        "sequence": 18,
+        "station": "Ram Mandir",
+        "distance": 25.33
+      },
+      {
+        "sequence": 19,
+        "station": "Goregaon",
+        "distance": 26.9
+      },
+      {
+        "sequence": 20,
+        "station": "Malad",
+        "distance": 29.32
+      },
+      {
+        "sequence": 21,
+        "station": "Kandivali",
+        "distance": 31.22
+      },
+      {
+        "sequence": 22,
+        "station": "Borivali",
+        "distance": 33.98
+      },
+      {
+        "sequence": 23,
+        "station": "Dahisar",
+        "distance": 36.34
+      },
+      {
+        "sequence": 24,
+        "station": "Mira Road",
+        "distance": 39.76
+      },
+      {
+        "sequence": 25,
+        "station": "Bhayandar",
+        "distance": 43.11
+      },
+      {
+        "sequence": 26,
+        "station": "Naigaon",
+        "distance": 47.7
+      },
+      {
+        "sequence": 27,
+        "station": "Vasai Road",
+        "distance": 51.78
+      },
+      {
+        "sequence": 28,
+        "station": "Nallasopara",
+        "distance": 55.85
+      },
+      {
+        "sequence": 29,
+        "station": "Virar",
+        "distance": 60
+      }
+    ]
+  },
+  {
+    "route": "csmt_khopoli",
+    "division": "CR",
+    "line": "central",
+    "source": "CSMT",
+    "destination": "Khopoli",
+    "sequence": [
+      {
+        "sequence": 1,
+        "station": "CSMT",
+        "distance": 0
+      },
+      {
+        "sequence": 2,
+        "station": "Masjid",
+        "distance": 1.22
+      },
+      {
+        "sequence": 3,
+        "station": "Sandhurst Road",
+        "distance": 1.8
+      },
+      {
+        "sequence": 4,
+        "station": "Byculla",
+        "distance": 4.04
+      },
+      {
+        "sequence": 5,
+        "station": "Chinchpokli",
+        "distance": 5.53
+      },
+      {
+        "sequence": 6,
+        "station": "Currey Road",
+        "distance": 6.07
+      },
+      {
+        "sequence": 7,
+        "station": "Parel",
+        "distance": 7.65
+      },
+      {
+        "sequence": 8,
+        "station": "Dadar",
+        "distance": 8.85
+      },
+      {
+        "sequence": 9,
+        "station": "Matunga",
+        "distance": 10.12
+      },
+      {
+        "sequence": 10,
+        "station": "Sion",
+        "distance": 12.71
+      },
+      {
+        "sequence": 11,
+        "station": "Kurla",
+        "distance": 15.39
+      },
+      {
+        "sequence": 12,
+        "station": "Vidyavihar",
+        "distance": 17.8
+      },
+      {
+        "sequence": 13,
+        "station": "Ghatkopar",
+        "distance": 19.3
+      },
+      {
+        "sequence": 14,
+        "station": "Vikhroli",
+        "distance": 22.85
+      },
+      {
+        "sequence": 15,
+        "station": "Kanjur Marg",
+        "distance": 24.69
+      },
+      {
+        "sequence": 16,
+        "station": "Bhandup",
+        "distance": 26.56
+      },
+      {
+        "sequence": 17,
+        "station": "Nahur",
+        "distance": 28.66
+      },
+      {
+        "sequence": 18,
+        "station": "Mulund",
+        "distance": 30.56
+      },
+      {
+        "sequence": 19,
+        "station": "Thane",
+        "distance": 33.02
+      },
+      {
+        "sequence": 20,
+        "station": "Kalwa",
+        "distance": 35.4
+      },
+      {
+        "sequence": 21,
+        "station": "Mumbra",
+        "distance": 39.08
+      },
+      {
+        "sequence": 22,
+        "station": "Diva Junction",
+        "distance": 42.46
+      },
+      {
+        "sequence": 23,
+        "station": "Kopar",
+        "distance": 46.86
+      },
+      {
+        "sequence": 24,
+        "station": "Dombivli",
+        "distance": 48.06
+      },
+      {
+        "sequence": 25,
+        "station": "Thakurli",
+        "distance": 49.51
+      },
+      {
+        "sequence": 26,
+        "station": "Kalyan Junction",
+        "distance": 53.21
+      },
+      {
+        "sequence": 27,
+        "station": "Vithalwadi",
+        "distance": 55.59
+      },
+      {
+        "sequence": 28,
+        "station": "Ulhasnagar",
+        "distance": 57.22
+      },
+      {
+        "sequence": 29,
+        "station": "Ambarnath",
+        "distance": 59.83
+      },
+      {
+        "sequence": 30,
+        "station": "Badlapur",
+        "distance": 67.26
+      },
+      {
+        "sequence": 31,
+        "station": "Vangani",
+        "distance": 77.99
+      },
+      {
+        "sequence": 32,
+        "station": "Shelu",
+        "distance": 82.02
+      },
+      {
+        "sequence": 33,
+        "station": "Neral Junction",
+        "distance": 86.12
+      },
+      {
+        "sequence": 34,
+        "station": "Bhivpuri Road",
+        "distance": 92.85
+      },
+      {
+        "sequence": 35,
+        "station": "Karjat",
+        "distance": 99.72
+      },
+      {
+        "sequence": 36,
+        "station": "Palasdari",
+        "distance": 102.69
+      },
+      {
+        "sequence": 37,
+        "station": "Kelavli",
+        "distance": 107.86
+      },
+      {
+        "sequence": 38,
+        "station": "Dolavli",
+        "distance": 108.43
+      },
+      {
+        "sequence": 39,
+        "station": "Lowjee",
+        "distance": 111.58
+      },
+      {
+        "sequence": 40,
+        "station": "Khopoli",
+        "distance": 114.24
+      }
+    ]
+  },
+  {
+    "route": "csmt_kasara",
+    "division": "CR",
+    "line": "central",
+    "source": "CSMT",
+    "destination": "Kasara",
+    "sequence": [
+      {
+        "sequence": 1,
+        "station": "CSMT",
+        "distance": 0
+      },
+      {
+        "sequence": 2,
+        "station": "Masjid",
+        "distance": 1.22
+      },
+      {
+        "sequence": 3,
+        "station": "Sandhurst Road",
+        "distance": 1.8
+      },
+      {
+        "sequence": 4,
+        "station": "Byculla",
+        "distance": 4.04
+      },
+      {
+        "sequence": 5,
+        "station": "Chinchpokli",
+        "distance": 5.53
+      },
+      {
+        "sequence": 6,
+        "station": "Currey Road",
+        "distance": 6.07
+      },
+      {
+        "sequence": 7,
+        "station": "Parel",
+        "distance": 7.65
+      },
+      {
+        "sequence": 8,
+        "station": "Dadar",
+        "distance": 8.85
+      },
+      {
+        "sequence": 9,
+        "station": "Matunga",
+        "distance": 10.12
+      },
+      {
+        "sequence": 10,
+        "station": "Sion",
+        "distance": 12.71
+      },
+      {
+        "sequence": 11,
+        "station": "Kurla",
+        "distance": 15.39
+      },
+      {
+        "sequence": 12,
+        "station": "Vidyavihar",
+        "distance": 17.8
+      },
+      {
+        "sequence": 13,
+        "station": "Ghatkopar",
+        "distance": 19.3
+      },
+      {
+        "sequence": 14,
+        "station": "Vikhroli",
+        "distance": 22.85
+      },
+      {
+        "sequence": 15,
+        "station": "Kanjur Marg",
+        "distance": 24.69
+      },
+      {
+        "sequence": 16,
+        "station": "Bhandup",
+        "distance": 26.56
+      },
+      {
+        "sequence": 17,
+        "station": "Nahur",
+        "distance": 28.66
+      },
+      {
+        "sequence": 18,
+        "station": "Mulund",
+        "distance": 30.56
+      },
+      {
+        "sequence": 19,
+        "station": "Thane",
+        "distance": 33.02
+      },
+      {
+        "sequence": 20,
+        "station": "Kalwa",
+        "distance": 35.4
+      },
+      {
+        "sequence": 21,
+        "station": "Mumbra",
+        "distance": 39.08
+      },
+      {
+        "sequence": 22,
+        "station": "Diva Junction",
+        "distance": 42.46
+      },
+      {
+        "sequence": 23,
+        "station": "Kopar",
+        "distance": 46.86
+      },
+      {
+        "sequence": 24,
+        "station": "Dombivli",
+        "distance": 48.06
+      },
+      {
+        "sequence": 25,
+        "station": "Thakurli",
+        "distance": 49.51
+      },
+      {
+        "sequence": 26,
+        "station": "Kalyan Junction",
+        "distance": 53.21
+      },
+      {
+        "sequence": 27,
+        "station": "Shahad",
+        "distance": 56.25
+      },
+      {
+        "sequence": 28,
+        "station": "Ambivli",
+        "distance": 57.98
+      },
+      {
+        "sequence": 29,
+        "station": "Titwala",
+        "distance": 64.05
+      },
+      {
+        "sequence": 30,
+        "station": "Khadavli",
+        "distance": 71.4
+      },
+      {
+        "sequence": 31,
+        "station": "Vasind",
+        "distance": 79.4
+      },
+      {
+        "sequence": 32,
+        "station": "Asangaon",
+        "distance": 85.43
+      },
+      {
+        "sequence": 33,
+        "station": "Atgaon",
+        "distance": 94.87
+      },
+      {
+        "sequence": 34,
+        "station": "Thansit",
+        "distance": 101
+      },
+      {
+        "sequence": 35,
+        "station": "Khardi",
+        "distance": 107.03
+      },
+      {
+        "sequence": 36,
+        "station": "Umbermali",
+        "distance": 113.16
+      },
+      {
+        "sequence": 37,
+        "station": "Kasara",
+        "distance": 120.56
+      }
+    ]
+  },
+  {
+    "route": "csmt_panvel",
+    "division": "CR",
+    "line": "harbour",
+    "source": "CSMT",
+    "destination": "Panvel",
+    "sequence": [
+      {
+        "sequence": 1,
+        "station": "CSMT",
+        "distance": 0
+      },
+      {
+        "sequence": 2,
+        "station": "Masjid",
+        "distance": 1.22
+      },
+      {
+        "sequence": 3,
+        "station": "Sandhurst Road",
+        "distance": 1.8
+      },
+      {
+        "sequence": 4,
+        "station": "Dockyard Road",
+        "distance": 2.99
+      },
+      {
+        "sequence": 5,
+        "station": "Reay Road",
+        "distance": 4.08
+      },
+      {
+        "sequence": 6,
+        "station": "Cotton Green",
+        "distance": 5.18
+      },
+      {
+        "sequence": 7,
+        "station": "Sewri",
+        "distance": 7.1
+      },
+      {
+        "sequence": 8,
+        "station": "Wadala Road",
+        "distance": 9.11
+      },
+      {
+        "sequence": 9,
+        "station": "GTB Nagar",
+        "distance": 11.48
+      },
+      {
+        "sequence": 10,
+        "station": "Chunabhatti",
+        "distance": 13.48
+      },
+      {
+        "sequence": 11,
+        "station": "Kurla",
+        "distance": 15.39
+      },
+      {
+        "sequence": 12,
+        "station": "Tilak Nagar",
+        "distance": 16.41
+      },
+      {
+        "sequence": 13,
+        "station": "Chembur",
+        "distance": 17.33
+      },
+      {
+        "sequence": 14,
+        "station": "Govandi",
+        "distance": 18.99
+      },
+      {
+        "sequence": 15,
+        "station": "Mankhurd",
+        "distance": 21.38
+      },
+      {
+        "sequence": 16,
+        "station": "Vashi",
+        "distance": 28.89
+      },
+      {
+        "sequence": 17,
+        "station": "Sanpada",
+        "distance": 30.03
+      },
+      {
+        "sequence": 18,
+        "station": "Juinagar",
+        "distance": 31.94
+      },
+      {
+        "sequence": 19,
+        "station": "Nerul",
+        "distance": 34.47
+      },
+      {
+        "sequence": 20,
+        "station": "Seawoods Darave",
+        "distance": 35.84
+      },
+      {
+        "sequence": 21,
+        "station": "Belapur CBD",
+        "distance": 38.22
+      },
+      {
+        "sequence": 22,
+        "station": "Kharghar",
+        "distance": 40.56
+      },
+      {
+        "sequence": 23,
+        "station": "Mansarovar",
+        "distance": 43.48
+      },
+      {
+        "sequence": 24,
+        "station": "Khandeshwar",
+        "distance": 45.76
+      },
+      {
+        "sequence": 25,
+        "station": "Panvel",
+        "distance": 48.94
+      }
+    ]
+  },
+  {
+    "route": "csmt_goregaon",
+    "division": "CR",
+    "line": "harbour",
+    "source": "CSMT",
+    "destination": "Goregaon",
+    "sequence": [
+      {
+        "sequence": 1,
+        "station": "CSMT",
+        "distance": 0
+      },
+      {
+        "sequence": 2,
+        "station": "Masjid",
+        "distance": 1.22
+      },
+      {
+        "sequence": 3,
+        "station": "Sandhurst Road",
+        "distance": 1.8
+      },
+      {
+        "sequence": 4,
+        "station": "Dockyard Road",
+        "distance": 2.99
+      },
+      {
+        "sequence": 5,
+        "station": "Reay Road",
+        "distance": 4.08
+      },
+      {
+        "sequence": 6,
+        "station": "Cotton Green",
+        "distance": 5.18
+      },
+      {
+        "sequence": 7,
+        "station": "Sewri",
+        "distance": 7.1
+      },
+      {
+        "sequence": 8,
+        "station": "Wadala Road",
+        "distance": 9.11
+      },
+      {
+        "sequence": 9,
+        "station": "King's Circle",
+        "distance": 11.05
+      },
+      {
+        "sequence": 10,
+        "station": "Mahim Junction",
+        "distance": 12.61
+      },
+      {
+        "sequence": 11,
+        "station": "Bandra",
+        "distance": 14.08
+      },
+      {
+        "sequence": 12,
+        "station": "Khar Road",
+        "distance": 15.97
+      },
+      {
+        "sequence": 13,
+        "station": "Santa Cruz",
+        "distance": 17.61
+      },
+      {
+        "sequence": 14,
+        "station": "Vile Parle",
+        "distance": 19.67
+      },
+      {
+        "sequence": 15,
+        "station": "Andheri",
+        "distance": 21.83
+      },
+      {
+        "sequence": 16,
+        "station": "Jogeshwari",
+        "distance": 23.52
+      },
+      {
+        "sequence": 17,
+        "station": "Ram Mandir",
+        "distance": 25.33
+      },
+      {
+        "sequence": 18,
+        "station": "Goregaon",
+        "distance": 26.9
+      }
+    ]
+  },
+  {
+    "route": "panvel_goregaon",
+    "division": "CR",
+    "line": "harbour",
+    "source": "Panvel",
+    "destination": "Goregaon",
+    "sequence": [
+      {
+        "sequence": 1,
+        "station": "Panvel",
+        "distance": 0
+      },
+      {
+        "sequence": 2,
+        "station": "Khandeshwar",
+        "distance": 3.18
+      },
+      {
+        "sequence": 3,
+        "station": "Mansarovar",
+        "distance": 5.46
+      },
+      {
+        "sequence": 4,
+        "station": "Kharghar",
+        "distance": 8.38
+      },
+      {
+        "sequence": 5,
+        "station": "Belapur CBD",
+        "distance": 10.72
+      },
+      {
+        "sequence": 6,
+        "station": "Seawoods Darave",
+        "distance": 13.1
+      },
+      {
+        "sequence": 7,
+        "station": "Nerul",
+        "distance": 14.47
+      },
+      {
+        "sequence": 8,
+        "station": "Juinagar",
+        "distance": 17
+      },
+      {
+        "sequence": 9,
+        "station": "Sanpada",
+        "distance": 18.91
+      },
+      {
+        "sequence": 10,
+        "station": "Vashi",
+        "distance": 20.05
+      },
+      {
+        "sequence": 11,
+        "station": "Mankhurd",
+        "distance": 27.56
+      },
+      {
+        "sequence": 12,
+        "station": "Govandi",
+        "distance": 29.95
+      },
+      {
+        "sequence": 13,
+        "station": "Chembur",
+        "distance": 31.61
+      },
+      {
+        "sequence": 14,
+        "station": "Tilak Nagar",
+        "distance": 32.53
+      },
+      {
+        "sequence": 15,
+        "station": "Kurla",
+        "distance": 33.55
+      },
+      {
+        "sequence": 16,
+        "station": "Chunabhatti",
+        "distance": 35.46
+      },
+      {
+        "sequence": 17,
+        "station": "GTB Nagar",
+        "distance": 37.46
+      },
+      {
+        "sequence": 18,
+        "station": "Wadala Road",
+        "distance": 39.83
+      },
+      {
+        "sequence": 19,
+        "station": "King's Circle",
+        "distance": 41.77
+      },
+      {
+        "sequence": 20,
+        "station": "Mahim Junction",
+        "distance": 43.33
+      },
+      {
+        "sequence": 21,
+        "station": "Bandra",
+        "distance": 44.8
+      },
+      {
+        "sequence": 22,
+        "station": "Khar Road",
+        "distance": 46.69
+      },
+      {
+        "sequence": 23,
+        "station": "Santa Cruz",
+        "distance": 48.33
+      },
+      {
+        "sequence": 24,
+        "station": "Vile Parle",
+        "distance": 50.39
+      },
+      {
+        "sequence": 25,
+        "station": "Andheri",
+        "distance": 52.55
+      },
+      {
+        "sequence": 26,
+        "station": "Jogeshwari",
+        "distance": 54.24
+      },
+      {
+        "sequence": 27,
+        "station": "Ram Mandir",
+        "distance": 56.05
+      },
+      {
+        "sequence": 28,
+        "station": "Goregaon",
+        "distance": 57.62
+      }
+    ]
+  },
+  {
+    "route": "thane_panvel",
+    "division": "CR",
+    "line": "trans-harbour",
+    "source": "Thane",
+    "destination": "Panvel",
+    "sequence": [
+      {
+        "sequence": 1,
+        "station": "Thane",
+        "distance": 0
+      },
+      {
+        "sequence": 2,
+        "station": "Digha Gaon",
+        "distance": 3.78
+      },
+      {
+        "sequence": 3,
+        "station": "Airoli",
+        "distance": 5.84
+      },
+      {
+        "sequence": 4,
+        "station": "Rabale",
+        "distance": 8.32
+      },
+      {
+        "sequence": 5,
+        "station": "Ghansoli",
+        "distance": 10.68
+      },
+      {
+        "sequence": 6,
+        "station": "Koparkhairane",
+        "distance": 12.17
+      },
+      {
+        "sequence": 7,
+        "station": "Turbhe",
+        "distance": 15.36
+      },
+      {
+        "sequence": 8,
+        "station": "Juinagar",
+        "distance": 17.63
+      },
+      {
+        "sequence": 9,
+        "station": "Nerul",
+        "distance": 20.07
+      },
+      {
+        "sequence": 10,
+        "station": "Seawoods Darave",
+        "distance": 21.46
+      },
+      {
+        "sequence": 11,
+        "station": "Belapur CBD",
+        "distance": 23.82
+      },
+      {
+        "sequence": 12,
+        "station": "Kharghar",
+        "distance": 26.22
+      },
+      {
+        "sequence": 13,
+        "station": "Mansarovar",
+        "distance": 29.06
+      },
+      {
+        "sequence": 14,
+        "station": "Khandeshwar",
+        "distance": 30.97
+      },
+      {
+        "sequence": 15,
+        "station": "Panvel",
+        "distance": 34.3
+      }
+    ]
+  },
+  {
+    "route": "thane_vashi",
+    "division": "CR",
+    "line": "trans-harbour",
+    "source": "Thane",
+    "destination": "Vashi",
+    "sequence": [
+      {
+        "sequence": 1,
+        "station": "Thane",
+        "distance": 0
+      },
+      {
+        "sequence": 2,
+        "station": "Digha Gaon",
+        "distance": 3.78
+      },
+      {
+        "sequence": 3,
+        "station": "Airoli",
+        "distance": 5.84
+      },
+      {
+        "sequence": 4,
+        "station": "Rabale",
+        "distance": 8.32
+      },
+      {
+        "sequence": 5,
+        "station": "Ghansoli",
+        "distance": 10.68
+      },
+      {
+        "sequence": 6,
+        "station": "Koparkhairane",
+        "distance": 12.17
+      },
+      {
+        "sequence": 7,
+        "station": "Turbhe",
+        "distance": 15.36
+      },
+      {
+        "sequence": 8,
+        "station": "Sanpada",
+        "distance": 17.4
+      },
+      {
+        "sequence": 9,
+        "station": "Vashi",
+        "distance": 18.6
+      }
+    ]
+  },
+  {
+    "route": "uran_nerul",
+    "division": "CR",
+    "line": "port",
+    "source": "Uran",
+    "destination": "Nerul",
+    "sequence": [
+      {
+        "sequence": 1,
+        "station": "Uran",
+        "distance": 0
+      },
+      {
+        "sequence": 2,
+        "station": "Dronagiri",
+        "distance": 1.43
+      },
+      {
+        "sequence": 3,
+        "station": "Nhava Sheva",
+        "distance": 4.56
+      },
+      {
+        "sequence": 4,
+        "station": "Shematikhar",
+        "distance": 7.69
+      },
+      {
+        "sequence": 5,
+        "station": "Gavan",
+        "distance": 11.54
+      },
+      {
+        "sequence": 6,
+        "station": "Kharkopar",
+        "distance": 14.03
+      },
+      {
+        "sequence": 7,
+        "station": "Bamandongri",
+        "distance": 16.01
+      },
+      {
+        "sequence": 8,
+        "station": "Targhar",
+        "distance": 17.96
+      },
+      {
+        "sequence": 9,
+        "station": "Seawoods Darave",
+        "distance": 22.23
+      },
+      {
+        "sequence": 10,
+        "station": "Nerul",
+        "distance": 23.62
+      }
+    ]
+  },
+  {
+    "route": "uran_belapur",
+    "division": "CR",
+    "line": "port",
+    "source": "Uran",
+    "destination": "Belapur CBD",
+    "sequence": [
+      {
+        "sequence": 1,
+        "station": "Uran",
+        "distance": 0
+      },
+      {
+        "sequence": 2,
+        "station": "Dronagiri",
+        "distance": 1.43
+      },
+      {
+        "sequence": 3,
+        "station": "Nhava Sheva",
+        "distance": 4.56
+      },
+      {
+        "sequence": 4,
+        "station": "Shematikhar",
+        "distance": 7.69
+      },
+      {
+        "sequence": 5,
+        "station": "Gavan",
+        "distance": 11.54
+      },
+      {
+        "sequence": 6,
+        "station": "Kharkopar",
+        "distance": 14.03
+      },
+      {
+        "sequence": 7,
+        "station": "Bamandongri",
+        "distance": 16.01
+      },
+      {
+        "sequence": 8,
+        "station": "Targhar",
+        "distance": 17.96
+      },
+      {
+        "sequence": 9,
+        "station": "Belapur CBD",
+        "distance": 22.77
+      }
+    ]
+  }
+]

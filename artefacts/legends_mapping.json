@@ -1,0 +1,70 @@
+[
+ {
+   "legend": "X",
+   "definition": "Not operational on Sundays & holidays"
+ },
+ {
+   "legend": "Y",
+   "definition": "Not operational on Saturdays / Sundays / holidays"
+ },
+ {
+   "legend": "Z",
+   "definition": "Not operational on Sundays only"
+ },
+ {
+   "legend": "@",
+   "definition": "Ladies Special"
+ },
+ {
+   "legend": "#",
+   "definition": "Ladies Special but not on Sundays"
+ },
+ {
+   "legend": "$",
+   "definition": "3 coaches reserved for ladies"
+ },
+ {
+   "legend": "%",
+   "definition": "AC"
+ },
+ {
+   "legend": "&",
+   "definition": "Non-AC on Saturdays & Sundays"
+ },
+ {
+   "legend": "",
+   "definition": ""
+ },
+ {
+   "legend": "Central",
+   "definition": ""
+ },
+ {
+   "legend": "$",
+   "definition": "3 coaches reserved for ladies at KYN/KJT/KSARA end"
+ },
+ {
+   "legend": "",
+   "definition": ""
+ },
+ {
+   "legend": "Harbour",
+   "definition": ""
+ },
+ {
+   "legend": "$",
+   "definition": "3 coaches reserved for ladies at CSMT end"
+ },
+ {
+   "legend": "",
+   "definition": ""
+ },
+ {
+   "legend": "Trans-harbour",
+   "definition": ""
+ },
+ {
+   "legend": "$",
+   "definition": "3 coaches reserved for ladies at Thane end"
+ }
+]

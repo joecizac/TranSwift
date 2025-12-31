@@ -1,0 +1,297 @@
+*.iml
+.kotlin
+.gradle
+**/build/
+xcuserdata
+!src/**/build/
+local.properties
+.idea
+.DS_Store
+captures
+.externalNativeBuild
+.cxx
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcodeproj/project.xcworkspace/
+!*.xcworkspace/contents.xcworkspacedata
+**/xcshareddata/WorkspaceSettings.xcsettings
+node_modules/
+
+
+
+# ===================================================================
+# == Consolidated .gitignore
+# == Organized from templates for:
+# == Android, Java, Kotlin, Swift, Objective-C,
+# == IntelliJ, Android Studio, Xcode,
+# == Gradle, Maven, CocoaPods,
+# == macOS, Windows, Linux
+# ===================================================================
+
+# -------------------------------------------------------------------
+# -- Build Artifacts & Output
+# -------------------------------------------------------------------
+build/
+target/
+out/
+bin/
+gen/
+
+# Xcode
+DerivedData/
+.build/
+
+# Carthage
+Carthage/Build/
+
+# Packages & Archives
+*.apk
+*.aab
+*.ap_
+*.dex
+*.ipa
+*.dSYM.zip
+*.dSYM
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.class
+
+# -------------------------------------------------------------------
+# -- Build Systems
+# -------------------------------------------------------------------
+# Gradle
+.gradle/
+.gradletasknamecache
+# Allow tracking the wrapper
+!gradle/wrapper/gradle-wrapper.jar
+!gradle-wrapper.jar
+!gradle-wrapper.properties
+
+# Maven
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# Eclipse Gradle/Maven plugins
+.project
+.classpath
+.settings/
+
+# -------------------------------------------------------------------
+# -- Dependency Management
+# -------------------------------------------------------------------
+# CocoaPods
+Pods/
+
+# Carthage
+# Uncomment to ignore checked-out dependencies:
+# Carthage/Checkouts
+
+# Accio
+Dependencies/
+.accio/
+
+# Swift Package Manager
+# Uncomment to ignore dependencies:
+# Packages/
+# Package.resolved
+
+# -------------------------------------------------------------------
+# -- IDE Configs - JetBrains (IntelliJ, Android Studio)
+# -------------------------------------------------------------------
+# User-specific files
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries/
+.idea/usage.statistics.xml
+.idea/shelf/
+.idea/aws.xml
+.idea/httpRequests/
+.idea/azureSettings.xml
+
+# Sensitive data
+.idea/dataSources/
+.idea/dataSources.ids
+.idea/dataSources.local.xml
+.idea/sqlDataSources.xml
+.idea/mongoSettings.xml
+
+# Caches and generated
+.idea/caches/
+.idea/contentModel.xml
+.idea/dynamic.xml
+.idea/libraries/
+.idea/gradle.xml
+.idea/uiDesigner.xml
+.idea/dbnavigator.xml
+.idea/$CACHE_FILE$
+.idea/build_file_checksums.ser
+
+# Plugins
+.idea/sonarlint/
+.idea/sonarIssues.xml
+.idea/codestream.xml
+.idea/replstate.xml
+.idea/markdown-navigator.xml
+.idea/markdown-navigator-enh.xml
+.idea/markdown-navigator/
+
+# Other
+*.iml
+*.ipr
+*.iws
+.idea_modules/
+atlassian-ide-plugin.xml
+cmake-build-*/
+.navigation/
+*.swp
+
+# J2ME/BlueJ
+*.ctxt
+.mtj.tmp/
+
+# -------------------------------------------------------------------
+# -- IDE Configs - Xcode
+# -------------------------------------------------------------------
+# User-specific
+xcuserdata/
+**/xcshareddata/WorkspaceSettings.xcsettings
+*.user
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+!default.pbxuser
+!default.mode1v3
+!default.mode2v3
+!default.perspectivev3
+
+# Project files (ignore all, then un-ignore shared)
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcodeproj/project.xcworkspace/
+!*.xcworkspace/contents.xcworkspacedata
+
+# Compatibility
+*.xcscmblueprint
+*.xccheckout
+*.moved-aside
+
+# Misc
+*.hmap
+*.gcno
+timeline.xctimeline
+playground.xcworkspace
+iOSInjectionProject/
+
+# -------------------------------------------------------------------
+# -- Local Configs, Secrets, & Tools
+# -------------------------------------------------------------------
+# Local properties (SDK paths, etc.)
+local.properties
+
+# Keystores
+*.jks
+*.keystore
+
+# Google Services (often checked in, but ignored by template)
+google-services.json
+
+# Profiler, Debug & Native
+*.hprof
+captures/
+.externalNativeBuild/
+.cxx/
+obj/
+gen-external-apklibs
+
+# Legacy Crashlytics
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
+
+# -------------------------------------------------------------------
+# -- Logs, Temp, & Runtime
+# -------------------------------------------------------------------
+*.log
+hs_err_pid*
+replay_pid*
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+
+# -------------------------------------------------------------------
+# -- Git
+# -------------------------------------------------------------------
+# Merge conflict artifacts
+*.orig
+*.BACKUP.*
+*.BASE.*
+*.LOCAL.*
+*.REMOTE.*
+*_BACKUP_*.txt
+*_BASE_*.txt
+*_LOCAL_*.txt
+*_REMOTE_*.txt
+
+# -------------------------------------------------------------------
+# -- Operating System Specific
+# -------------------------------------------------------------------
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+*.icloud
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk

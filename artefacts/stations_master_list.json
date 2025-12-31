@@ -1,0 +1,1234 @@
+[
+ {
+   "station_name": "Ambarnath",
+   "alternate_names": "Ambernath",
+   "station_code": "A/ABH",
+   "division": "CR",
+   "line": "central",
+   "distance": 59.83
+ },
+ {
+   "station_name": "Ambivli",
+   "alternate_names": "",
+   "station_code": "ABY",
+   "division": "CR",
+   "line": "central",
+   "distance": 57.98
+ },
+ {
+   "station_name": "Asangaon",
+   "alternate_names": "",
+   "station_code": "AN/ASO",
+   "division": "CR",
+   "line": "central",
+   "distance": 85.43
+ },
+ {
+   "station_name": "Atgaon",
+   "alternate_names": "",
+   "station_code": "ATG",
+   "division": "CR",
+   "line": "central",
+   "distance": 94.87
+ },
+ {
+   "station_name": "Badlapur",
+   "alternate_names": "",
+   "station_code": "BL/BUD",
+   "division": "CR",
+   "line": "central",
+   "distance": 67.26
+ },
+ {
+   "station_name": "Bhandup",
+   "alternate_names": "",
+   "station_code": "BND",
+   "division": "CR",
+   "line": "central",
+   "distance": 26.56
+ },
+ {
+   "station_name": "Bhivpuri Road",
+   "alternate_names": "",
+   "station_code": "BVS",
+   "division": "CR",
+   "line": "central",
+   "distance": 92.85
+ },
+ {
+   "station_name": "Byculla",
+   "alternate_names": "",
+   "station_code": "BY",
+   "division": "CR",
+   "line": "central",
+   "distance": 4.04
+ },
+ {
+   "station_name": "Chinchpokli",
+   "alternate_names": "",
+   "station_code": "CHP",
+   "division": "CR",
+   "line": "central",
+   "distance": 5.53
+ },
+ {
+   "station_name": "CSMT",
+   "alternate_names": "Mumbai CSMT",
+   "station_code": "ST/CSMT",
+   "division": "CR",
+   "line": "central",
+   "distance": 0
+ },
+ {
+   "station_name": "Currey Road",
+   "alternate_names": "",
+   "station_code": "CRD",
+   "division": "CR",
+   "line": "central",
+   "distance": 6.07
+ },
+ {
+   "station_name": "Dadar",
+   "alternate_names": "",
+   "station_code": "D/DR",
+   "division": "CR",
+   "line": "central",
+   "distance": 8.85
+ },
+ {
+   "station_name": "Diva Junction",
+   "alternate_names": "Diwa",
+   "station_code": "DIVA",
+   "division": "CR",
+   "line": "central",
+   "distance": 42.46
+ },
+ {
+   "station_name": "Dolavli",
+   "alternate_names": "",
+   "station_code": "DLV",
+   "division": "CR",
+   "line": "central",
+   "distance": 108.43
+ },
+ {
+   "station_name": "Dombivli",
+   "alternate_names": "",
+   "station_code": "DI/DL",
+   "division": "CR",
+   "line": "central",
+   "distance": 48.06
+ },
+ {
+   "station_name": "Ghatkopar",
+   "alternate_names": "",
+   "station_code": "G",
+   "division": "CR",
+   "line": "central",
+   "distance": 19.3
+ },
+ {
+   "station_name": "Kalwa",
+   "alternate_names": "Kalva",
+   "station_code": "KLVA",
+   "division": "CR",
+   "line": "central",
+   "distance": 35.4
+ },
+ {
+   "station_name": "Kalyan Junction",
+   "alternate_names": "Kalyan",
+   "station_code": "K/KYN",
+   "division": "CR",
+   "line": "central",
+   "distance": 53.21
+ },
+ {
+   "station_name": "Kanjur Marg",
+   "alternate_names": "",
+   "station_code": "KJRD",
+   "division": "CR",
+   "line": "central",
+   "distance": 24.69
+ },
+ {
+   "station_name": "Karjat",
+   "alternate_names": "",
+   "station_code": "S/KJT",
+   "division": "CR",
+   "line": "central",
+   "distance": 99.72
+ },
+ {
+   "station_name": "Kasara",
+   "alternate_names": "",
+   "station_code": "N/KSRA",
+   "division": "CR",
+   "line": "central",
+   "distance": 120.56
+ },
+ {
+   "station_name": "Kelavli",
+   "alternate_names": "",
+   "station_code": "KLY",
+   "division": "CR",
+   "line": "central",
+   "distance": 107.86
+ },
+ {
+   "station_name": "Khadavli",
+   "alternate_names": "",
+   "station_code": "KDV",
+   "division": "CR",
+   "line": "central",
+   "distance": 71.4
+ },
+ {
+   "station_name": "Khardi",
+   "alternate_names": "",
+   "station_code": "KE",
+   "division": "CR",
+   "line": "central",
+   "distance": 107.03
+ },
+ {
+   "station_name": "Khopoli",
+   "alternate_names": "",
+   "station_code": "KP/KHPL",
+   "division": "CR",
+   "line": "central",
+   "distance": 114.24
+ },
+ {
+   "station_name": "Kopar",
+   "alternate_names": "",
+   "station_code": "KOPR",
+   "division": "CR",
+   "line": "central",
+   "distance": 46.86
+ },
+ {
+   "station_name": "Kurla",
+   "alternate_names": "",
+   "station_code": "C/CLA",
+   "division": "CR",
+   "line": "central",
+   "distance": 15.39
+ },
+ {
+   "station_name": "Lowjee",
+   "alternate_names": "",
+   "station_code": "LWJ",
+   "division": "CR",
+   "line": "central",
+   "distance": 111.58
+ },
+ {
+   "station_name": "Masjid",
+   "alternate_names": "",
+   "station_code": "MSD",
+   "division": "CR",
+   "line": "central",
+   "distance": 1.22
+ },
+ {
+   "station_name": "Matunga",
+   "alternate_names": "",
+   "station_code": "MTN",
+   "division": "CR",
+   "line": "central",
+   "distance": 10.12
+ },
+ {
+   "station_name": "Mulund",
+   "alternate_names": "",
+   "station_code": "MLND",
+   "division": "CR",
+   "line": "central",
+   "distance": 30.56
+ },
+ {
+   "station_name": "Mumbra",
+   "alternate_names": "",
+   "station_code": "MBQ",
+   "division": "CR",
+   "line": "central",
+   "distance": 39.08
+ },
+ {
+   "station_name": "Nahur",
+   "alternate_names": "",
+   "station_code": "NHU",
+   "division": "CR",
+   "line": "central",
+   "distance": 28.66
+ },
+ {
+   "station_name": "Neral Junction",
+   "alternate_names": "Neral",
+   "station_code": "NRL",
+   "division": "CR",
+   "line": "central",
+   "distance": 86.12
+ },
+ {
+   "station_name": "Palasdari",
+   "alternate_names": "Palasdhari",
+   "station_code": "PDI",
+   "division": "CR",
+   "line": "central",
+   "distance": 102.69
+ },
+ {
+   "station_name": "Parel",
+   "alternate_names": "",
+   "station_code": "PR",
+   "division": "CR",
+   "line": "central",
+   "distance": 7.65
+ },
+ {
+   "station_name": "Sandhurst Road",
+   "alternate_names": "",
+   "station_code": "SNRD",
+   "division": "CR",
+   "line": "central",
+   "distance": 2.08
+ },
+ {
+   "station_name": "Shahad",
+   "alternate_names": "",
+   "station_code": "SHAD",
+   "division": "CR",
+   "line": "central",
+   "distance": 56.25
+ },
+ {
+   "station_name": "Shelu",
+   "alternate_names": "",
+   "station_code": "SHLU",
+   "division": "CR",
+   "line": "central",
+   "distance": 82.02
+ },
+ {
+   "station_name": "Sion",
+   "alternate_names": "",
+   "station_code": "SIN",
+   "division": "CR",
+   "line": "central",
+   "distance": 12.71
+ },
+ {
+   "station_name": "Thakurli",
+   "alternate_names": "",
+   "station_code": "THK",
+   "division": "CR",
+   "line": "central",
+   "distance": 49.51
+ },
+ {
+   "station_name": "Thane",
+   "alternate_names": "",
+   "station_code": "T/TNA",
+   "division": "CR",
+   "line": "central",
+   "distance": 33.02
+ },
+ {
+   "station_name": "Thansit",
+   "alternate_names": "",
+   "station_code": "THS",
+   "division": "CR",
+   "line": "central",
+   "distance": 101
+ },
+ {
+   "station_name": "Titwala",
+   "alternate_names": "",
+   "station_code": "TL/TWL",
+   "division": "CR",
+   "line": "central",
+   "distance": 64.05
+ },
+ {
+   "station_name": "Ulhasnagar",
+   "alternate_names": "Ulhas nagar, Ulhas Nagar",
+   "station_code": "ULNR",
+   "division": "CR",
+   "line": "central",
+   "distance": 57.22
+ },
+ {
+   "station_name": "Umbermali",
+   "alternate_names": "",
+   "station_code": "OMB",
+   "division": "CR",
+   "line": "central",
+   "distance": 113.16
+ },
+ {
+   "station_name": "Vangani",
+   "alternate_names": "",
+   "station_code": "VGI",
+   "division": "CR",
+   "line": "central",
+   "distance": 77.99
+ },
+ {
+   "station_name": "Vasind",
+   "alternate_names": "",
+   "station_code": "VSD",
+   "division": "CR",
+   "line": "central",
+   "distance": 79.4
+ },
+ {
+   "station_name": "Vidyavihar",
+   "alternate_names": "",
+   "station_code": "VVH",
+   "division": "CR",
+   "line": "central",
+   "distance": 17.8
+ },
+ {
+   "station_name": "Vikhroli",
+   "alternate_names": "",
+   "station_code": "VK",
+   "division": "CR",
+   "line": "central",
+   "distance": 22.85
+ },
+ {
+   "station_name": "Vithalwadi",
+   "alternate_names": "Umbermalli",
+   "station_code": "VLDI",
+   "division": "CR",
+   "line": "central",
+   "distance": 55.59
+ },
+ {
+   "station_name": "Andheri",
+   "alternate_names": "",
+   "station_code": "AD/ADH",
+   "division": "CR",
+   "line": "harbour",
+   "distance": 21.83
+ },
+ {
+   "station_name": "Bandra",
+   "alternate_names": "",
+   "station_code": "B/BA/BDTS",
+   "division": "CR",
+   "line": "harbour",
+   "distance": 14.08
+ },
+ {
+   "station_name": "Belapur CBD",
+   "alternate_names": "Belapur, CBD Belapur",
+   "station_code": "BR/BEPR",
+   "division": "CR",
+   "line": "harbour",
+   "distance": 38.22
+ },
+ {
+   "station_name": "Borivali",
+   "alternate_names": "",
+   "station_code": "BO/BVI",
+   "division": "CR",
+   "line": "harbour",
+   "distance": null
+ },
+ {
+   "station_name": "Chembur",
+   "alternate_names": "",
+   "station_code": "CM/CMBR",
+   "division": "CR",
+   "line": "harbour",
+   "distance": 17.33
+ },
+ {
+   "station_name": "Chunabhatti",
+   "alternate_names": "",
+   "station_code": "CHF",
+   "division": "CR",
+   "line": "harbour",
+   "distance": 13.48
+ },
+ {
+   "station_name": "Cotton Green",
+   "alternate_names": "",
+   "station_code": "CTGN",
+   "division": "CR",
+   "line": "harbour",
+   "distance": 5.18
+ },
+ {
+   "station_name": "CSMT",
+   "alternate_names": "Mumbai CSMT",
+   "station_code": "ST/CSMT",
+   "division": "CR",
+   "line": "harbour",
+   "distance": 0
+ },
+ {
+   "station_name": "Dockyard Road",
+   "alternate_names": "DOCK YARD ROAD",
+   "station_code": "DKRD",
+   "division": "CR",
+   "line": "harbour",
+   "distance": 2.99
+ },
+ {
+   "station_name": "Goregaon",
+   "alternate_names": "",
+   "station_code": "GO/GMN/GN",
+   "division": "CR",
+   "line": "harbour",
+   "distance": 26.9
+ },
+ {
+   "station_name": "Govandi",
+   "alternate_names": "",
+   "station_code": "GV",
+   "division": "CR",
+   "line": "harbour",
+   "distance": 18.99
+ },
+ {
+   "station_name": "GTB Nagar",
+   "alternate_names": "",
+   "station_code": "GTBN",
+   "division": "CR",
+   "line": "harbour",
+   "distance": 11.48
+ },
+ {
+   "station_name": "Jogeshwari",
+   "alternate_names": "JOGESWARI",
+   "station_code": "JOS",
+   "division": "CR",
+   "line": "harbour",
+   "distance": 23.52
+ },
+ {
+   "station_name": "Juinagar",
+   "alternate_names": "",
+   "station_code": "JNJ",
+   "division": "CR",
+   "line": "harbour",
+   "distance": 31.94
+ },
+ {
+   "station_name": "Kandivali",
+   "alternate_names": "",
+   "station_code": "KILE",
+   "division": "CR",
+   "line": "harbour",
+   "distance": 31.22
+ },
+ {
+   "station_name": "Khandeshwar",
+   "alternate_names": "",
+   "station_code": "KNDS",
+   "division": "CR",
+   "line": "harbour",
+   "distance": 45.76
+ },
+ {
+   "station_name": "Khar Road",
+   "alternate_names": "KHAR",
+   "station_code": "KHAR",
+   "division": "CR",
+   "line": "harbour",
+   "distance": 16.29
+ },
+ {
+   "station_name": "Kharghar",
+   "alternate_names": "",
+   "station_code": "KHAG",
+   "division": "CR",
+   "line": "harbour",
+   "distance": 40.56
+ },
+ {
+   "station_name": "King's Circle",
+   "alternate_names": "",
+   "station_code": "KCE",
+   "division": "CR",
+   "line": "harbour",
+   "distance": 10.83
+ },
+ {
+   "station_name": "Kurla",
+   "alternate_names": "",
+   "station_code": "C/CLA",
+   "division": "CR",
+   "line": "harbour",
+   "distance": 15.39
+ },
+ {
+   "station_name": "Mahim Junction",
+   "alternate_names": "Mahim Jn., Mahim Jn",
+   "station_code": "MM",
+   "division": "CR",
+   "line": "harbour",
+   "distance": 12.52
+ },
+ {
+   "station_name": "Malad",
+   "alternate_names": "",
+   "station_code": "M/MDD",
+   "division": "CR",
+   "line": "harbour",
+   "distance": 29.32
+ },
+ {
+   "station_name": "Mankhurd",
+   "alternate_names": "",
+   "station_code": "M/MK/MNKD",
+   "division": "CR",
+   "line": "harbour",
+   "distance": 21.38
+ },
+ {
+   "station_name": "Mansarovar",
+   "alternate_names": "",
+   "station_code": "MANR",
+   "division": "CR",
+   "line": "harbour",
+   "distance": 43.48
+ },
+ {
+   "station_name": "Masjid",
+   "alternate_names": "",
+   "station_code": "MSD",
+   "division": "CR",
+   "line": "harbour",
+   "distance": 1.22
+ },
+ {
+   "station_name": "Nerul",
+   "alternate_names": "",
+   "station_code": "NU/NEU",
+   "division": "CR",
+   "line": "harbour",
+   "distance": 34.47
+ },
+ {
+   "station_name": "Panvel",
+   "alternate_names": "",
+   "station_code": "PL/PNVL",
+   "division": "CR",
+   "line": "harbour",
+   "distance": 48.94
+ },
+ {
+   "station_name": "Ram Mandir",
+   "alternate_names": "Ramnagar",
+   "station_code": "RMAR",
+   "division": "CR",
+   "line": "harbour",
+   "distance": 25.33
+ },
+ {
+   "station_name": "Reay Road",
+   "alternate_names": "",
+   "station_code": "RRD",
+   "division": "CR",
+   "line": "harbour",
+   "distance": 4.08
+ },
+ {
+   "station_name": "Sandhurst Road",
+   "alternate_names": "",
+   "station_code": "SNRD",
+   "division": "CR",
+   "line": "harbour",
+   "distance": 1.8
+ },
+ {
+   "station_name": "Sanpada",
+   "alternate_names": "",
+   "station_code": "SNCR",
+   "division": "CR",
+   "line": "harbour",
+   "distance": 30.03
+ },
+ {
+   "station_name": "Santa Cruz",
+   "alternate_names": "Santacruz, SANTACURTZ",
+   "station_code": "STC",
+   "division": "CR",
+   "line": "harbour",
+   "distance": 17.61
+ },
+ {
+   "station_name": "Seawoods Darave",
+   "alternate_names": "Seawood Darave, SEAWOODS DARAWE",
+   "station_code": "SWDK",
+   "division": "CR",
+   "line": "harbour",
+   "distance": 35.84
+ },
+ {
+   "station_name": "Sewri",
+   "alternate_names": "SEWERI",
+   "station_code": "SVE",
+   "division": "CR",
+   "line": "harbour",
+   "distance": 7.1
+ },
+ {
+   "station_name": "Tilak Nagar",
+   "alternate_names": "Tilaknagar",
+   "station_code": "TKNG",
+   "division": "CR",
+   "line": "harbour",
+   "distance": 16.41
+ },
+ {
+   "station_name": "Vashi",
+   "alternate_names": "",
+   "station_code": "VA/VSH",
+   "division": "CR",
+   "line": "harbour",
+   "distance": 28.89
+ },
+ {
+   "station_name": "Vile Parle",
+   "alternate_names": "Vileparle, VILEPARLE",
+   "station_code": "VLP",
+   "division": "CR",
+   "line": "harbour",
+   "distance": 19.67
+ },
+ {
+   "station_name": "Wadala Road",
+   "alternate_names": "VADALA ROAD",
+   "station_code": "VD/VDLR",
+   "division": "CR",
+   "line": "harbour",
+   "distance": 9.11
+ },
+ {
+   "station_name": "Bamandongri",
+   "alternate_names": "",
+   "station_code": "BMDR",
+   "division": "CR",
+   "line": "port",
+   "distance": 41.44
+ },
+ {
+   "station_name": "Belapur CBD",
+   "alternate_names": "Belapur, CBD Belapur",
+   "station_code": "BR/BEPR",
+   "division": "CR",
+   "line": "port",
+   "distance": 38.22
+ },
+ {
+   "station_name": "Dronagiri",
+   "alternate_names": "",
+   "station_code": "DRGI",
+   "division": "CR",
+   "line": "port",
+   "distance": 55.99
+ },
+ {
+   "station_name": "Gavan",
+   "alternate_names": "",
+   "station_code": "GAVN",
+   "division": "CR",
+   "line": "port",
+   "distance": 45.93
+ },
+ {
+   "station_name": "Kharkopar",
+   "alternate_names": "",
+   "station_code": "KR/KARP",
+   "division": "CR",
+   "line": "port",
+   "distance": 43.34
+ },
+ {
+   "station_name": "Nerul",
+   "alternate_names": "",
+   "station_code": "NU/NEU",
+   "division": "CR",
+   "line": "port",
+   "distance": 34.47
+ },
+ {
+   "station_name": "Nhava Sheva",
+   "alternate_names": "NHAVE-SHEVA",
+   "station_code": "NESA",
+   "division": "CR",
+   "line": "port",
+   "distance": 53.02
+ },
+ {
+   "station_name": "Seawoods Darave",
+   "alternate_names": "Seawood Darave, SEAWOODS DARAWE",
+   "station_code": "SWDK",
+   "division": "CR",
+   "line": "port",
+   "distance": 35.84
+ },
+ {
+   "station_name": "Shematikhar",
+   "alternate_names": "Ranjanpada",
+   "station_code": "SEMK",
+   "division": "CR",
+   "line": "port",
+   "distance": 49.19
+ },
+ {
+   "station_name": "Targhar",
+   "alternate_names": "",
+   "station_code": "TRGR",
+   "division": "CR",
+   "line": "port",
+   "distance": 39.6
+ },
+ {
+   "station_name": "Uran",
+   "alternate_names": "",
+   "station_code": "U/URAN",
+   "division": "CR",
+   "line": "port",
+   "distance": 94.44
+ },
+ {
+   "station_name": "Airoli",
+   "alternate_names": "AIRAVALI",
+   "station_code": "AIRL",
+   "division": "CR",
+   "line": "trans-harbour",
+   "distance": 38.85
+ },
+ {
+   "station_name": "Belapur CBD",
+   "alternate_names": "Belapur, CBD Belapur",
+   "station_code": "BR/BEPR",
+   "division": "CR",
+   "line": "trans-harbour",
+   "distance": 56.78
+ },
+ {
+   "station_name": "Digha Gaon",
+   "alternate_names": "",
+   "station_code": "DIGH",
+   "division": "CR",
+   "line": "trans-harbour",
+   "distance": 36.8
+ },
+ {
+   "station_name": "Ghansoli",
+   "alternate_names": "",
+   "station_code": "GNSL",
+   "division": "CR",
+   "line": "trans-harbour",
+   "distance": 43.64
+ },
+ {
+   "station_name": "Juinagar",
+   "alternate_names": "",
+   "station_code": "JNJ",
+   "division": "CR",
+   "line": "trans-harbour",
+   "distance": 50.6
+ },
+ {
+   "station_name": "Khandeshwar",
+   "alternate_names": "",
+   "station_code": "KNDS",
+   "division": "CR",
+   "line": "trans-harbour",
+   "distance": 64.32
+ },
+ {
+   "station_name": "Kharghar",
+   "alternate_names": "",
+   "station_code": "KHAG",
+   "division": "CR",
+   "line": "trans-harbour",
+   "distance": 59.12
+ },
+ {
+   "station_name": "Koparkhairane",
+   "alternate_names": "KOPAR KHAIRNA",
+   "station_code": "KPHN",
+   "division": "CR",
+   "line": "trans-harbour",
+   "distance": 45.15
+ },
+ {
+   "station_name": "Mansarovar",
+   "alternate_names": "",
+   "station_code": "MANR",
+   "division": "CR",
+   "line": "trans-harbour",
+   "distance": 62.04
+ },
+ {
+   "station_name": "Nerul",
+   "alternate_names": "",
+   "station_code": "NU/NEU",
+   "division": "CR",
+   "line": "trans-harbour",
+   "distance": 53.04
+ },
+ {
+   "station_name": "Panvel",
+   "alternate_names": "",
+   "station_code": "PL/PNVL",
+   "division": "CR",
+   "line": "trans-harbour",
+   "distance": 67.5
+ },
+ {
+   "station_name": "Rabale",
+   "alternate_names": "RABADA",
+   "station_code": "RABE",
+   "division": "CR",
+   "line": "trans-harbour",
+   "distance": 41.32
+ },
+ {
+   "station_name": "Sanpada",
+   "alternate_names": "",
+   "station_code": "SNCR",
+   "division": "CR",
+   "line": "trans-harbour",
+   "distance": 50.35
+ },
+ {
+   "station_name": "Seawoods Darave",
+   "alternate_names": "Seawood Darave, SEAWOODS DARAWE",
+   "station_code": "SWDK",
+   "division": "CR",
+   "line": "trans-harbour",
+   "distance": 54.42
+ },
+ {
+   "station_name": "Thane",
+   "alternate_names": "",
+   "station_code": "T/TNA",
+   "division": "CR",
+   "line": "trans-harbour",
+   "distance": 33.02
+ },
+ {
+   "station_name": "Turbhe",
+   "alternate_names": "",
+   "station_code": "TUH",
+   "division": "CR",
+   "line": "trans-harbour",
+   "distance": 48.32
+ },
+ {
+   "station_name": "Vashi",
+   "alternate_names": "",
+   "station_code": "VA/VSH",
+   "division": "CR",
+   "line": "trans-harbour",
+   "distance": 51.53
+ },
+ {
+   "station_name": "Andheri",
+   "alternate_names": "",
+   "station_code": "AD/ADH",
+   "division": "WR",
+   "line": "western",
+   "distance": 21.83
+ },
+ {
+   "station_name": "Bandra",
+   "alternate_names": "",
+   "station_code": "B/BA/BDTS",
+   "division": "WR",
+   "line": "western",
+   "distance": 14.66
+ },
+ {
+   "station_name": "Bhayandar",
+   "alternate_names": "",
+   "station_code": "BY/BYR",
+   "division": "WR",
+   "line": "western",
+   "distance": 43.11
+ },
+ {
+   "station_name": "Boisar",
+   "alternate_names": "",
+   "station_code": "BOR",
+   "division": "WR",
+   "line": "western",
+   "distance": 98.31
+ },
+ {
+   "station_name": "Borivali",
+   "alternate_names": "",
+   "station_code": "BO/BVI",
+   "division": "WR",
+   "line": "western",
+   "distance": 33.98
+ },
+ {
+   "station_name": "Charni Road",
+   "alternate_names": "",
+   "station_code": "CYR",
+   "division": "WR",
+   "line": "western",
+   "distance": 2.21
+ },
+ {
+   "station_name": "Churchgate",
+   "alternate_names": "",
+   "station_code": "CH/CCG",
+   "division": "WR",
+   "line": "western",
+   "distance": 0
+ },
+ {
+   "station_name": "Dadar",
+   "alternate_names": "",
+   "station_code": "D/DDR",
+   "division": "WR",
+   "line": "western",
+   "distance": 10.17
+ },
+ {
+   "station_name": "Dahanu Road",
+   "alternate_names": "",
+   "station_code": "DH/DRD",
+   "division": "WR",
+   "line": "western",
+   "distance": 123.78
+ },
+ {
+   "station_name": "Dahisar",
+   "alternate_names": "",
+   "station_code": "DIC",
+   "division": "WR",
+   "line": "western",
+   "distance": 36.34
+ },
+ {
+   "station_name": "Goregaon",
+   "alternate_names": "",
+   "station_code": "GO/GMN",
+   "division": "WR",
+   "line": "western",
+   "distance": 26.9
+ },
+ {
+   "station_name": "Grant Road",
+   "alternate_names": "",
+   "station_code": "GTR",
+   "division": "WR",
+   "line": "western",
+   "distance": 3.59
+ },
+ {
+   "station_name": "Jogeshwari",
+   "alternate_names": "JOGESWARI",
+   "station_code": "JOS",
+   "division": "WR",
+   "line": "western",
+   "distance": 23.52
+ },
+ {
+   "station_name": "Kandivali",
+   "alternate_names": "Kandivli",
+   "station_code": "KILE",
+   "division": "WR",
+   "line": "western",
+   "distance": 31.22
+ },
+ {
+   "station_name": "Kelve Road",
+   "alternate_names": "",
+   "station_code": "KLV",
+   "division": "WR",
+   "line": "western",
+   "distance": 81.82
+ },
+ {
+   "station_name": "Khar Road",
+   "alternate_names": "KHAR",
+   "station_code": "KHAR",
+   "division": "WR",
+   "line": "western",
+   "distance": 16.29
+ },
+ {
+   "station_name": "Lower Parel",
+   "alternate_names": "",
+   "station_code": "PL",
+   "division": "WR",
+   "line": "western",
+   "distance": 7.67
+ },
+ {
+   "station_name": "Mahalaxmi",
+   "alternate_names": "Mahalakshmi",
+   "station_code": "MX",
+   "division": "WR",
+   "line": "western",
+   "distance": 5.95
+ },
+ {
+   "station_name": "Mahim Junction",
+   "alternate_names": "Mahim Jn., Mahim Jn",
+   "station_code": "MM",
+   "division": "WR",
+   "line": "western",
+   "distance": 12.93
+ },
+ {
+   "station_name": "Malad",
+   "alternate_names": "",
+   "station_code": "M/MDD",
+   "division": "WR",
+   "line": "western",
+   "distance": 29.32
+ },
+ {
+   "station_name": "Marine Lines",
+   "alternate_names": "",
+   "station_code": "MEL",
+   "division": "WR",
+   "line": "western",
+   "distance": 1.3
+ },
+ {
+   "station_name": "Matunga Road",
+   "alternate_names": "",
+   "station_code": "MRU",
+   "division": "WR",
+   "line": "western",
+   "distance": 11.75
+ },
+ {
+   "station_name": "Mira Road",
+   "alternate_names": "",
+   "station_code": "MIRA",
+   "division": "WR",
+   "line": "western",
+   "distance": 39.76
+ },
+ {
+   "station_name": "Mumbai Central",
+   "alternate_names": "M'bai Central, M'bai Central (L), M'BAI CENTRAL(L)",
+   "station_code": "MMCT/BCT",
+   "division": "WR",
+   "line": "western",
+   "distance": 4.48
+ },
+ {
+   "station_name": "Naigaon",
+   "alternate_names": "",
+   "station_code": "NIG",
+   "division": "WR",
+   "line": "western",
+   "distance": 47.7
+ },
+ {
+   "station_name": "Nallasopara",
+   "alternate_names": "Nalla Sopara",
+   "station_code": "NS/NSP",
+   "division": "WR",
+   "line": "western",
+   "distance": 55.85
+ },
+ {
+   "station_name": "Palghar",
+   "alternate_names": "",
+   "station_code": "PLG",
+   "division": "WR",
+   "line": "western",
+   "distance": 87.29
+ },
+ {
+   "station_name": "Prabhadevi",
+   "alternate_names": "",
+   "station_code": "PBHD",
+   "division": "WR",
+   "line": "western",
+   "distance": 8.98
+ },
+ {
+   "station_name": "Ram Mandir",
+   "alternate_names": "Ramnagar",
+   "station_code": "RMAR",
+   "division": "WR",
+   "line": "western",
+   "distance": 25.33
+ },
+ {
+   "station_name": "Santa Cruz",
+   "alternate_names": "Santacruz, SANTACURTZ",
+   "station_code": "STC",
+   "division": "WR",
+   "line": "western",
+   "distance": 17.61
+ },
+ {
+   "station_name": "Saphale",
+   "alternate_names": "",
+   "station_code": "SAH",
+   "division": "WR",
+   "line": "western",
+   "distance": 75.99
+ },
+ {
+   "station_name": "Umroli",
+   "alternate_names": "",
+   "station_code": "UOI",
+   "division": "WR",
+   "line": "western",
+   "distance": 91.43
+ },
+ {
+   "station_name": "Vaitarna",
+   "alternate_names": "Vaiterna",
+   "station_code": "VTN",
+   "division": "WR",
+   "line": "western",
+   "distance": 68.42
+ },
+ {
+   "station_name": "Vangaon",
+   "alternate_names": "",
+   "station_code": "VGN",
+   "division": "WR",
+   "line": "western",
+   "distance": 106.66
+ },
+ {
+   "station_name": "Vasai Road",
+   "alternate_names": "",
+   "station_code": "BS/BSR",
+   "division": "WR",
+   "line": "western",
+   "distance": 51.78
+ },
+ {
+   "station_name": "Vile Parle",
+   "alternate_names": "Vileparle, VILEPARLE",
+   "station_code": "VLP",
+   "division": "WR",
+   "line": "western",
+   "distance": 19.67
+ },
+ {
+   "station_name": "Virar",
+   "alternate_names": "",
+   "station_code": "V/VR",
+   "division": "WR",
+   "line": "western",
+   "distance": 60
+ }
+]
