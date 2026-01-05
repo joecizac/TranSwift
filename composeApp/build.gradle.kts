@@ -18,12 +18,15 @@ kotlin {
     }
     
     listOf(
+        iosX64(),
         iosArm64(),
         iosSimulatorArm64()
     ).forEach { iosTarget ->
         iosTarget.binaries.framework {
             baseName = "ComposeApp"
             isStatic = true
+//            // Required when using NativeSQLiteDriver
+//            linkerOpts.add("-lsqlite3")
         }
     }
     
@@ -98,6 +101,7 @@ dependencies {
     // Note: You might need specific ksp targets depending on platform,
     // but usually adding it to common/android is enough for KMP setups now.
     add("kspAndroid", libs.androidx.room.compiler)
+    add("kspIosX64", libs.androidx.room.compiler)
     add("kspIosArm64", libs.androidx.room.compiler)
     add("kspIosSimulatorArm64", libs.androidx.room.compiler)
 }

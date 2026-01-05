@@ -200,6 +200,10 @@ A cross-platform (Android & iOS) mobile application built with Kotlin and Compos
 - The user prefers a "consultation mode" to clarify requirements through Q&A before starting execution.
 - User has provided `transwift.db` in `artefacts/` (verification pending) and requires MVI + Clean Architecture.
 - User switched from "consultation mode" back to "code generation mode" for implementation.
+- User prefers to implement code themselves based on guidance (switched back to consultation mode
+  during Phase 1 DB setup).
+- User customized DAO queries (`getTrainsByNumber`, `getSchedulesForStation`) for specific routing
+  needs.
   
 ## Changelog
 - **[2025-12-29] Phase 1 Initialization:**
@@ -207,10 +211,17 @@ A cross-platform (Android & iOS) mobile application built with Kotlin and Compos
     - Updated `libs.versions.toml` and `composeApp/build.gradle.kts` with dependencies for Room, Koin, Navigation, and Serialization.
     - Resolved KSP plugin version conflict by updating to `2.3.4` and fixing repository access in `settings.gradle.kts`.
     - Build failed due to host machine Xcode configuration (`xcrun` error).
+- **[2025-12-29] Phase 1 - Database Implementation:**
+    - Resolved Xcode environment issue; build passed.
+    - Implemented Room Entities: `TrainEntity`, `ScheduleEntity`.
+    - Implemented DAOs: `TrainDao`, `ScheduleDao` (with custom queries for routing logic).
+    - Created `AppDatabase` abstract class.
 
 ## Active Tasks 
-- [ ] **Fix Host Environment:** User needs to resolve Xcode command line tools issue (`xcode-select --install`, license agreement).
-- [ ] **Verify Artifacts:** Confirm `transwift.db` is actually present in `artefacts/`.
-- [ ] **Project Build:** Run `./gradlew build` successfully after environment fix.
-- [ ] **Database Implementation:** Define Room Entities (`Train`, `Schedule`) and setup Database connection to pre-populated file.
+
+- [ ] **Database Setup:** Implement `DatabaseDriverFactory` (Common/Android/iOS) and
+  `getDatabaseBuilder`.
+- [ ] **Asset Management:** Move `transwift.db` to platform-specific asset folders (Android/iOS).
+- [ ] **DI Setup:** Initialize Koin module for Database.
+- [ ] **Data Ingestion:** Parse JSON artifacts for Station/Route metadata.
 
